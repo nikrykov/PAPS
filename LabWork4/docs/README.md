@@ -141,21 +141,31 @@
 ![image](https://github.com/nikrykov/PAPS/assets/121154680/3102de32-112a-4d4b-af77-39053c04163c)
 
 ### 4. saveQualityMeasurementSkill [POST]
-#### Запрос и тело запроса 
+#### Запрос и тело запроса
+![image](https://github.com/nikrykov/PAPS/assets/121154680/33d7a879-70b8-469e-8a17-c92c7e6bfe46)
 #### Код автотестов и тело ответа
+![image](https://github.com/nikrykov/PAPS/assets/121154680/18ad1813-2bc0-4c2f-a046-8e1c7c0214b4)
 
 ### 5. updateQuantityMeasurementSkill [PUT]
 #### Запрос и тело запроса
+![image](https://github.com/nikrykov/PAPS/assets/121154680/9c93d326-fa6e-4194-8fae-608b0f422da5)
 #### Код автотестов и тело ответа
+![image](https://github.com/nikrykov/PAPS/assets/121154680/a414484e-a387-44c9-9179-d16d98bf9f24)
 
 ### 6. updateQualityMeasurementSkill [PUT]
 #### Запрос и тело запроса
+![image](https://github.com/nikrykov/PAPS/assets/121154680/65a6be94-9af4-42d5-bdf6-dc9e5f31d6a8)
 #### Код автотестов и тело ответа
+![image](https://github.com/nikrykov/PAPS/assets/121154680/7a22fa91-7ee9-401e-8f18-9e1f8d97fa3b)
 
 ### 7. deleteQuantityMeasurementSkill [DELETE]
 #### Запрос и тело ответа
+![image](https://github.com/nikrykov/PAPS/assets/121154680/26480787-26b9-4d5b-a087-bf7f38c4b06a)
 #### Код автотестов
+![image](https://github.com/nikrykov/PAPS/assets/121154680/911a413a-1b2a-4211-a53b-53149716d3c0)
 
 ### 8. deleteQualityMeasurementSkill [DELETE]
 #### Запрос и тело ответа
+![image](https://github.com/nikrykov/PAPS/assets/121154680/011d5574-fb6f-4039-9a81-e3c1c1d238f4)
 #### Код автотестов
+![image](https://github.com/nikrykov/PAPS/assets/121154680/4441248f-708c-4fc3-96ef-d81d495b33e2)
